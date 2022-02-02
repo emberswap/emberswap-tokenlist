@@ -1,0 +1,54 @@
+{
+  "name": "EmberSwap List",
+  "timestamp": "2022-02-02T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xA4D01B690dD1b0c87b19596f262Efa9F954feb2a/logo.png",
+  "keywords": ["emberswap", "default"],
+  "tokens": [
+    {
+        "name": "Ember",
+        "address": "0xA4D01B690dD1b0c87b19596f262Efa9F954feb2a",
+        "symbol": "EMBER",
+        "decimals": 18,
+        "chainId": 10001,
+        "logoURI": "https://raw.githubusercontent.com/emberswap/assets/master/blockchains/smartbch/assets/0xA4D01B690dD1b0c87b19596f262Efa9F954feb2a/logo.png"
+      },
+      {
+        "name": "Incinerate",
+        "address": "0xdA0A2f7e358F880e724415B0Cf8BAf27e9B62A4e",
+        "symbol": "FIRE",
+        "decimals": 18,
+        "chainId": 10001,
+        "logoURI": "https://raw.githubusercontent.com/emberswap/assets/master/blockchains/smartbch/assets/0xdA0A2f7e358F880e724415B0Cf8BAf27e9B62A4e/logo.png"
+      },
+      {
+        "name": "Wrapped BCH",
+        "address": "0x17F4FCF5b6E0A95D4eE331c8529041896A073F9b",
+        "symbol": "WBCH",
+        "decimals": 18,
+        "chainId": 10001,
+        "logoURI": "https://raw.githubusercontent.com/emberswap/assets/master/blockchains/smartbch/assets/0x17F4FCF5b6E0A95D4eE331c8529041896A073F9b/logo.png"
+      },
+      {
+        "name": "FlexUSD",
+        "address": "0x638eE360741A331FCdA33D0083068f86FAe741Ed",
+        "symbol": "FLEXUSD",
+        "decimals": 18,
+        "chainId": 10001,
+        "logoURI": "https://raw.githubusercontent.com/emberswap/assets/master/blockchains/smartbch/assets/0x638eE360741A331FCdA33D0083068f86FAe741Ed/logo.png"
+      },
+      {
+        "name": "LAW US Dollar",
+        "address": "0x8757735b530e47C904C4d2d519a5Be67B6b3bEC5",
+        "symbol": "lawUSD",
+        "decimals": 18,
+        "chainId": 10001,
+        "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x8757735b530e47C904C4d2d519a5Be67B6b3bEC5/logo.png"
+      }
+]
+}

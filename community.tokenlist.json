@@ -1,0 +1,17 @@
+{
+  "name": "Community List",
+  "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xdA0A2f7e358F880e724415B0Cf8BAf27e9B62A4e/logo.png",
+  "keywords": ["emberswap", "community"],
+  "timestamp": "2022-01-10T12:15:29.993Z",
+  "tokens": [
+    {
+      "name": "Mist",
+      "address": "0x3d2cd929D1fC1dA68D2557AB85336C2740b1Ae81",
+      "symbol": "MIST",
+      "decimals": 18,
+      "chainId": 10001,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x3d2cd929D1fC1dA68D2557AB85336C2740b1Ae81/logo.png"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
