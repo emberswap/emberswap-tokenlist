@@ -7,16 +7,16 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xA4D01B690dD1b0c87b19596f262Efa9F954feb2a/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x0b2C58719a2073640BfC390D703eA832057D2543/logo.png",
   "keywords": ["emberswap", "default"],
   "tokens": [
     {
         "name": "Ember",
-        "address": "0xA4D01B690dD1b0c87b19596f262Efa9F954feb2a",
+        "address": "0x0b2C58719a2073640BfC390D703eA832057D2543",
         "symbol": "EMBER",
         "decimals": 18,
         "chainId": 10001,
-        "logoURI": "https://raw.githubusercontent.com/emberswap/assets/master/blockchains/smartbch/assets/0xA4D01B690dD1b0c87b19596f262Efa9F954feb2a/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/emberswap/assets/master/blockchains/smartbch/assets/0x0b2C58719a2073640BfC390D703eA832057D2543/logo.png"
       },
       {
         "name": "Incinerate",
@@ -44,11 +44,11 @@
       },
       {
         "name": "LAW US Dollar",
-        "address": "0x8757735b530e47C904C4d2d519a5Be67B6b3bEC5",
+        "address": "0x18d2Cd266416E1fBe49aa32DDBA510c5Ddee8882",
         "symbol": "lawUSD",
         "decimals": 18,
         "chainId": 10001,
-        "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x8757735b530e47C904C4d2d519a5Be67B6b3bEC5/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x18d2Cd266416E1fBe49aa32DDBA510c5Ddee8882/logo.png"
       }
 ]
 }
