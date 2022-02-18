@@ -1,16 +1,256 @@
 {
   "name": "Community List",
-  "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xdA0A2f7e358F880e724415B0Cf8BAf27e9B62A4e/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E/logo.png",
   "keywords": ["emberswap", "community"],
   "timestamp": "2022-01-10T12:15:29.993Z",
   "tokens": [
     {
       "name": "Mist",
-      "address": "0x3d2cd929D1fC1dA68D2557AB85336C2740b1Ae81",
+      "address": "0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129",
       "symbol": "MIST",
       "decimals": 18,
-      "chainId": 10001,
-      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x3d2cd929D1fC1dA68D2557AB85336C2740b1Ae81/logo.png"
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
+    },
+    {
+      "name": "xMIST",
+      "address": "0xC41C680c60309d4646379eD62020c534eB67b6f4",
+      "symbol": "XMIST",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xC41C680c60309d4646379eD62020c534eB67b6f4/logo.png"
+    },
+    {
+      "name": "TANGO",
+      "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+      "symbol": "TANGO",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91/logo.png"
+    },
+    {
+      "name": "xTANGO",
+      "address": "0x98Ff640323C059d8C4CB846976973FEEB0E068aA",
+      "symbol": "XTANGO",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x98Ff640323C059d8C4CB846976973FEEB0E068aA/logo.png"
+    },
+    {
+      "name": "1BCH Token",
+      "address": "0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D",
+      "symbol": "1BCH",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D/logo.png"
+    },
+    {
+      "name": "rBCH Token",
+      "address": "0xb4602588E5F1F9653B6F234206c91552E457fAcB",
+      "symbol": "rBCH",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xb4602588E5F1F9653B6F234206c91552E457fAcB/logo.png"
+    },
+    {
+      "name": "MILK",
+      "address": "0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0",
+      "symbol": "MILK",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0/logo.png"
+    },
+    {
+      "name": "GoCrypto",
+      "address": "0x4B85a666deC7C959e88b97814E46113601B07e57",
+      "symbol": "GoC",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x4B85a666deC7C959e88b97814E46113601B07e57/logo.png"
+    },
+    {
+      "name": "AxieBCH",
+      "address": "0x3d13DaFcCA3a188DB340c81414239Bc2be312Ec9",
+      "symbol": "AXIEBCH",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x3d13DaFcCA3a188DB340c81414239Bc2be312Ec9/logo.png"
+    },
+    {
+      "name": "Bitcoin Cash Argentina",
+      "address": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+      "symbol": "ARG",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x675E1d6FcE8C7cC091aED06A68D079489450338a/logo.png"
+    },
+    {
+      "name": "Decentralized Autonomous Organization",
+      "address": "0xca0235058985fcC1839E9e37c10900a73C126708",
+      "symbol": "DAO",
+      "decimals": 7,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xca0235058985fcC1839E9e37c10900a73C126708/logo.png"
+    },
+    {
+      "name": "HONK",
+      "address": "0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd",
+      "symbol": "HONK",
+      "decimals": 2,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png"
+    },
+    {
+      "name": "ORB",
+      "address": "0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e",
+      "symbol": "ORB",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e/logo.png"
+    },
+    {
+      "name": "SPICE",
+      "address": "0xE11829A7D5d8806BB36E118461a1012588faFD89",
+      "symbol": "SPICE",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xE11829A7D5d8806BB36E118461a1012588faFD89/logo.png"
+    },
+    {
+      "name": "Knuth",
+      "address": "0xc70c7718C7f1CCd906534C2c4a76914173EC2c44",
+      "symbol": "KTH",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xc70c7718C7f1CCd906534C2c4a76914173EC2c44/logo.png"
+    },
+    {
+      "name": "Joystick",
+      "address": "0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E",
+      "symbol": "JOYSTICK",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E/logo.png"
+    },
+    {
+      "name": "Catsluck",
+      "address": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+      "symbol": "CLK",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x659F04F36e90143fCaC202D4BC36C699C078fC98/logo.png"
+    },
+    {
+      "name": "SmartIndex",
+      "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+      "symbol": "SIDX",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xF05bD3d7709980f60CD5206BddFFA8553176dd29/logo.png"
+    },
+    {
+      "name": "UatX Token",
+      "address": "0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a",
+      "symbol": "UAT",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a/logo.png"
+    },
+    {
+      "name": "Potato Coin",
+      "address": "0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0",
+      "symbol": "POTA",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0/logo.png"
+    },
+    {
+      "name": "Game",
+      "address": "0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+      "symbol": "GAME",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3/logo.png"
+    },
+    {
+      "name": "MoonMoonMoonMoon",
+      "address": "0x2b591190FF951F60CB9424664155e57A402c1AdE",
+      "symbol": "MoonMoonMoonMoon",
+      "decimals": 3,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
+    },
+    {
+      "name": "Ham Token",
+      "address": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
+      "symbol": "HAM",
+      "decimals": 8,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52/logo.png"
+    },
+    {
+      "name": "SmartBCH Token Observer",
+      "address": "0xAFACB0004A91267b58e720E13DF570Dc6863c854",
+      "symbol": "STO",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
+    },
+    {
+      "name": "Wenlambo",
+      "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
+      "symbol": "LAMBO",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963/logo.png"
+    },
+    {
+      "name": "CryptoSorted",
+      "address": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+      "symbol": "CST",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B/logo.png"
+    },
+    {
+      "name": "Expected Value Entropy",
+      "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+      "symbol": "EVE",
+      "decimals": 7,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C/logo.png"
+    },
+    {
+      "name": "Goblin",
+      "address": "0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+      "symbol": "GOB",
+      "decimals": 9,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x56381cB87C8990971f3e9d948939e1a95eA113a3/logo.png"
+    },
+    {
+      "name": "BCHDAO",
+      "address": "0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2",
+      "symbol": "BCHDAO",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2/logo.png"
+    },
+    {
+      "name": "Centralized Autocratic Organization",
+      "address": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
+      "symbol": "CAO",
+      "decimals": 9,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png"
+    },
+    {
+      "name": "WOJAK",
+      "address": "0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909",
+      "symbol": "WOJAK",
+      "decimals": 9,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909/logo.png"
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
