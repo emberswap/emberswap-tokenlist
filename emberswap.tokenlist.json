@@ -12,11 +12,11 @@
   "tokens": [
     {
         "name": "Ember",
-        "address": "0x0b2C58719a2073640BfC390D703eA832057D2543",
+        "address": "0x6BAbf5277849265b6738e75AEC43AEfdde0Ce88D",
         "symbol": "EMBER",
         "decimals": 18,
         "chainId": 10000,
-        "logoURI": "https://raw.githubusercontent.com/emberswap/assets/master/blockchains/smartbch/assets/0x0b2C58719a2073640BfC390D703eA832057D2543/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/emberswap/assets/master/blockchains/smartbch/assets/0x6BAbf5277849265b6738e75AEC43AEfdde0Ce88D/logo.png"
       },
       {
         "name": "Incinerate",
