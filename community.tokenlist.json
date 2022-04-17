@@ -2,7 +2,7 @@
   "name": "Community List",
   "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E/logo.png",
   "keywords": ["emberswap", "community"],
-  "timestamp": "2022-01-10T12:15:29.993Z",
+  "timestamp": "2022-04-17T08:08:29.993Z",
   "tokens": [
     {
       "name": "Mist",
@@ -251,7 +251,23 @@
       "decimals": 9,
       "chainId": 10000,
       "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909/logo.png"
+    },
+    {
+      "name": "Bitcoin Cash Name Service",
+      "address": "0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
+      "symbol": "LNS",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f/logo.png"
+    },   
+    {
+      "name": "PandaToken",
+      "address": "0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2",
+      "symbol": "PDA",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2/logo.png"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": { "major": 1, "minor": 1, "patch": 0 }
 }
