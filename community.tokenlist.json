@@ -2,7 +2,7 @@
   "name": "Community List",
   "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E/logo.png",
   "keywords": ["emberswap", "community"],
-  "timestamp": "2022-04-17T08:08:29.993Z",
+  "timestamp": "2023-01-11T08:08:29.993Z",
   "tokens": [
     {
       "name": "Mist",
@@ -259,7 +259,7 @@
       "decimals": 18,
       "chainId": 10000,
       "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f/logo.png"
-    },   
+    },
     {
       "name": "PandaToken",
       "address": "0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2",
@@ -291,7 +291,31 @@
       "decimals": 6,
       "chainId": 10000,
       "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
+    },
+    {
+      "name": "Rastjn",
+      "address": "0xc2a19d0a31eb5cf6720f99c06869e283bbef10f3",
+      "symbol": "RASTJN",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0xc2a19d0a31eb5cf6720f99c06869e283bbef10f3/logo.png"
+    },
+    {
+      "name": "Narath",
+      "address": "0x0cb20466c0dd6454acf50ec26f3042ccc6362fa0",
+      "symbol": "NARATH",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x0cb20466c0dd6454acf50ec26f3042ccc6362fa0/logo.png"
+    },
+    {
+      "name": "Konra",
+      "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+      "symbol": "KONRA",
+      "decimals": 18,
+      "chainId": 10000,
+      "logoURI": "https://raw.githubusercontent.com/emberswap/emberswap-tokenlist/main/assets/smartbch/0x4F1480ba79F7477230ec3b2eCc868E8221925072/logo.png"
     }
   ],
-  "version": { "major": 1, "minor": 1, "patch": 0 }
+  "version": { "major": 1, "minor": 2, "patch": 0 }
 }
